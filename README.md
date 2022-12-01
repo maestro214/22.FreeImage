@@ -1,7 +1,6 @@
-# aop-part4-chapter07
+# 저작권 무료 이미지 검색기
 
-## ⚠️ 주의사항
-`gradle.properties` 파일에 `UNPLASH ACCESS KEY` 를 추가해야합니다.
+## 이 챕터를 통해 배운 것
 
 ## 목차
 0. 인트로, 프로젝트 셋업
